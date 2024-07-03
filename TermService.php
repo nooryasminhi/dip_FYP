@@ -11,7 +11,7 @@
     <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
 
     <!--========== Custom CSS ==========-->
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="style.css">
 
     <title>G&G Contact Us</title>
 </head>
@@ -23,15 +23,15 @@
     <!--========== HEADER ==========-->
     <header class="l-header" id="header">
         <nav class="nav bd-container">
-            <a href="Index.html" class="nav__logo">GIVE & GATHER</a>
+            <a href="Index.php" class="nav__logo">GIVE & GATHER</a>
 
             <div class="nav__donor" id="nav-donor">
                 <ul class="nav__list">
-                    <li class="nav__item"><a href="index.html" class="nav__link">Home</a></li>
-                    <li class="nav__item"><a href="#aboutUs.html" class="nav__link">About</a></li>
-                    <li class="nav__item"><a href="services.html" class="nav__link">Services</a></li>
-                    <li class="nav__item"><a href="Donation.html" class="nav__link">Donation</a></li>
-                    <li class="nav__item"><a href="contactUs.html" class="nav__link">Contact us</a></li>
+                    <li class="nav__item"><a href="Index.php" class="nav__link">Home</a></li>
+                    <li class="nav__item"><a href="aboutUs.php" class="nav__link">About</a></li>
+                    <li class="nav__item"><a href="services.php" class="nav__link">Services</a></li>
+                    <li class="nav__item"><a href="Donation.php" class="nav__link">Donation</a></li>
+                    <li class="nav__item"><a href="contactUs.php" class="nav__link">Contact us</a></li>
 
                     <li><i class='bx bx-moon change-theme' id="theme-button"></i></li>
                 </ul>
@@ -177,9 +177,9 @@
                         <h3 class="footer__title">Information</h3>
                         <ul>
                             <li><a href="#" class="footer__link">Event</a></li>
-                            <li><a href="#" class="footer__link">Contact us</a></li>
-                            <li><a href="#" class="footer__link">Privacy policy</a></li>
-                            <li><a href="#" class="footer__link">Terms of services</a></li>
+                            <li><a href="contactUs.php" class="footer__linkz>Contact us</a></li>
+                            <li><a href="privacyPolicy.php" class="footer__link">Privacy policy</a></li>
+                            <li><a href="TermService" class="footer__link">Terms of services</a></li>
                         </ul>
                     </div>
     
@@ -238,11 +238,11 @@
 
             <div class="nav__donor" id="nav-donor">
                 <ul class="nav__list">
-                    <li class="nav__item"><a href="index.html" class="nav__link">Home</a></li>
+                    <li class="nav__item"><a href="index.php" class="nav__link">Home</a></li>
                     <li class="nav__item"><a href="#aboutUs.html" class="nav__link">About</a></li>
-                    <li class="nav__item"><a href="services.html" class="nav__link">Services</a></li>
-                    <li class="nav__item"><a href="Donation.html" class="nav__link">Donation</a></li>
-                    <li class="nav__item"><a href="contactUs.html" class="nav__link">Contact us</a></li>
+                    <li class="nav__item"><a href="services.php" class="nav__link">Services</a></li>
+                    <li class="nav__item"><a href="Donation.php" class="nav__link">Donation</a></li>
+                    <li class="nav__item"><a href="contactUs.php" class="nav__link">Contact us</a></li>
                     <li><i class='bx bx-moon change-theme' id="theme-button"></i></li>
                 </ul>
             </div>
