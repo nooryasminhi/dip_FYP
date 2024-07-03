@@ -24,15 +24,15 @@
     <!--========== HEADER ==========-->
     <header class="l-header" id="header">
       <nav class="nav bd-container">
-        <a href="Index.html" class="nav__logo">GIVE & GATHER</a>
+        <a href="Index.php" class="nav__logo">GIVE & GATHER</a>
 
         <div class="nav__donor" id="nav-donor">
           <ul class="nav__list">
             <li class="nav__item"><a href="Index.php" class="nav__link">Home</a></li>
-            <li class="nav__item"><a href="#about" class="nav__link">About</a></li>
-            <li class="nav__item"><a href="#services.php" class="nav__link">Services</a></li>
+            <li class="nav__item"><a href="aboutUs.php" class="nav__link">About</a></li>
+            <li class="nav__item"><a href="services.php" class="nav__link">Services</a></li>
             <li class="nav__item"><a href="Donation.php" class="nav__link">Donation</a></li>
-            <li class="nav__item"><a href="#contact" class="nav__link">Contact us</a></li>
+            <li class="nav__item"><a href="contactUs.php" class="nav__link">Contact us</a></li>
             <li class="nav__item"><a href="login.php" class="nav__link">Login</a></li>
 
             <li><i class='bx bx-moon change-theme' id="theme-button"></i></li>
@@ -153,7 +153,7 @@
           <h3 class="footer__title">Information</h3>
           <ul>
             <li><a href="#" class="footer__link">Event</a></li>
-            <li><a href="#" class="footer__link">Contact us</a></li>
+            <li><a href="contactUs.php" class="footer__link">Contact us</a></li>
             <li><a href="privacyPolicy.php" class="footer__link">Privacy policy</a></li>
             <li><a href="TermService.php" class="footer__link">Terms of services</a></li>
           </ul>
