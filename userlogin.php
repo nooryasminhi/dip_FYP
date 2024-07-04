@@ -70,7 +70,7 @@
                 <input type="submit" value="Sign In" />
               </p>
               <p>
-                <a href="">Forget Password?</a>
+                <a href="resetpwrd.php">Forget Password?</a>
               </p>
             </form>
             <?php
